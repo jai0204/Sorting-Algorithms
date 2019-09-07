@@ -18,3 +18,6 @@ Description of some basic sorting algorithms:-
 5. Quick Sort                   Best case - O(nlogn)                  In-place(O(logn))
                                 Average case - O(nlogn)               In-place(O(logn))
                                 Worst case - O(n^2)                   In-place(O(n))
+                                
+
+This repository also contains standard implementations of these algorithms for integer arrays
