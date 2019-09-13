@@ -1,4 +1,4 @@
-/*Heap sort - O(n^2)*/
+/*Heap sort - O(nlog(n)*/
 
 #include<stdio.h>
 #include<conio.h>
