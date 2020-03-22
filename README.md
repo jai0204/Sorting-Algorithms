@@ -1,5 +1,5 @@
 # Sorting-Algorithms
-Standard sorting algorithms
+Basic sorting algorithms
 
 ### Description of some basic sorting algorithms:-
 
